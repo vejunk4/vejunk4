@@ -1,7 +1,16 @@
 ## Hi there 👋 I'm Veronika!
 
-- I'm a computer science student who's interested in programming and web dev
-- I know some Python, Javascript and C# 🎀
+- Computer science student since 2023
+
+#### My skills
+
+**Programming**
+- Python, JavaScript, C#
+
+**Web development**
+- HTML, CSS, Sass, Bootstrap, Tailwind
+- Node.js, Socket.io
+- Currently learning React 
   
 
 
