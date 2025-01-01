@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Veronika!
 
 - I'm a computer science student who's interested in programming and web dev
-- I know some Python, Javascript and C#
+- I know some Python, Javascript and C# 🎀
   
 
 
