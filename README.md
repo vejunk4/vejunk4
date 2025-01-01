@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Veronika!
+
+- I'm a computer science student who's interested in programming and web dev
+- I know some Python, Javascript and C#
+  
+
+
 
 <!--
 **vejunk4/vejunk4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
