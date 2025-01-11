@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Veronika!
 
-- Computer science student since 2023
+- :computer: Computer science student since 2023
 
-### My skills
+## My skills
 
 **Programming**
 - Python, JavaScript, C#
