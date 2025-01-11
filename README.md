@@ -5,7 +5,7 @@
 ## My skills
 
 **Programming**
-- :python: Python, :javascript: JavaScript, :csharp: C#
+- Python, JavaScript, C#
 
 **Web development**
 - HTML, CSS, Sass, Bootstrap, Tailwind
